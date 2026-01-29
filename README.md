@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1179-game-play-analysis-i) |
 | [1251-average-selling-price](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1258-article-views-i) |
+| [1484-group-sold-products-by-the-date](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1484-group-sold-products-by-the-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1527-patients-with-a-condition) |
 | [1693-daily-leads-and-partners](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1693-daily-leads-and-partners) |
