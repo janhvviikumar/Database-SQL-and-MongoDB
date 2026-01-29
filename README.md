@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1527-patients-with-a-condition](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1527-patients-with-a-condition) |
 | [1693-daily-leads-and-partners](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1693-daily-leads-and-partners) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1729-find-followers-count) |
