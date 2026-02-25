@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1258-article-views-i) |
+| [1321-restaurant-growth](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1484-group-sold-products-by-the-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
