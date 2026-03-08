@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1258-article-views-i) |
+| [1280-students-and-examinations](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/janhvviikumar/Database-SQL-and-MongoDB/tree/master/1341-movie-rating) |
